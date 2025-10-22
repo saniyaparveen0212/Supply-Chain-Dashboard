@@ -1,9 +1,10 @@
-# Supply-Chain-Dashboard
-
 # Inventory and  Supply Chain Management Dashboard
 
-Managing inventory and ensuring an efficient supply chain are critical for business success. In this Power BI project, we dive deep into stock management, demand forecasting, supplier performance, and logistics optimization — building a fully interactive dashboard that mirrors real-world operations.
 
+
+
+# Description
+A Power BI dashboard designed to analyze and optimize supply chain performance. It tracks key metrics such as warehouse utilization, inventory turnover ratio, lead time, and transportation costs across regions and categories. The dashboard provides actionable insights to improve inventory efficiency, cost management, and order fulfillment through interactive and data-driven visualizations.
 
 # Objectives
 1. To analyze key supply chain metrics such as Warehouse Utilization, Inventory Turnover, and Lead Time.
